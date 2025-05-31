@@ -9,8 +9,8 @@
  *	over UART (e.g., USART2).
  *
  * 	@author         : Nitin R
- * 	@date           : May 21, 2025
- *	version			: v0.1
+ * 	@date           : May 31, 2025
+ *	version		: v1.1
  ******************************************************************************
  * COPYRIGHT(c) 2025 STMicroelectronics
  *
