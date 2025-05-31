@@ -118,6 +118,11 @@ if (current_exceeded != last_exceeded_state) {
 }
 ```
 
+## Note:
+is_threshold_exceeded() checks whether the current temperature or humidity exceeds the pre-defined limit.
+
+PA5 is used for fan control—connect it to a relay or transistor switch circuit depending on your fan configuration.
+
 ---
 
 ## Debug Logging – `debug.h`
