@@ -13,8 +13,8 @@
  *                   initialized before calling delay_us.
  *
  * @author         : Nitin R
- * @version        : 1.0
- * @date           : May 21, 2025
+ * @version        : 1.1
+ * @date           : May 31, 2025
  ******************************************************************************
  */
 
