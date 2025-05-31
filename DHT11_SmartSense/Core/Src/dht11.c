@@ -6,12 +6,13 @@
  *
  *                   This file includes all the necessary functions to
  *                   communicate with the DHT11 sensor: sending start signal,
- *                   checking response, reading data bytes, and microsecond
- *                   delay functions using DWT (Data Watchpoint and Trace).
+ *                   checking response, reading data bytes, Threshold alert system function 
+ *		     and microsecond delay functions using DWT (Data Watchpoint and Trace). 
+ *			
  *
  * @author         : Nitin R
- * @version        : 1.0
- * @date           : May 21, 2025
+ * @version        : 1.1
+ * @date           : May 31, 2025
  ******************************************************************************
  */
 
