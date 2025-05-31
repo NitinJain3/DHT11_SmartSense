@@ -160,9 +160,12 @@ Example:
 
 ---
 
-# Alert Output 
+##  Alert OFF & ON Output 
 ![image](https://github.com/user-attachments/assets/001a36b8-93df-499f-a4b6-aa4cee11c1c1)
 )
+
+![Screenshot 2025-05-31 162544](https://github.com/user-attachments/assets/65744112-f209-4c9a-a03e-115f5ab5d933)
+
 
 # Results with Reference Temperature Meter
 RH = ±10% observed(Callibration maybe required)  
